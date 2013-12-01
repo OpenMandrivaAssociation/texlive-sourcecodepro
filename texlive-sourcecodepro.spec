@@ -1,11 +1,11 @@
-# revision 30691
+# revision 32006
 # category Package
 # catalog-ctan /fonts/sourcecodepro
-# catalog-date 2013-01-17 13:28:12 +0100
+# catalog-date 2013-10-24 20:34:16 +0200
 # catalog-license ofl
-# catalog-version 2.0
+# catalog-version 2.2
 Name:		texlive-sourcecodepro
-Version:	2.0
+Version:	2.2
 Release:	1
 Summary:	Use SourceCodePro with TeX(-alike) systems
 Group:		Publishing
