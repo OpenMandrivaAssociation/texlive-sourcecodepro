@@ -6,7 +6,7 @@
 # catalog-version 2.2
 Name:		texlive-sourcecodepro
 Version:	2.2
-Release:	5
+Release:	6
 Summary:	Use SourceCodePro with TeX(-alike) systems
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/fonts/sourcecodepro
