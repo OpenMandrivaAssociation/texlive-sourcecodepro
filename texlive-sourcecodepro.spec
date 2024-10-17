@@ -3,7 +3,7 @@ Version:	54512
 Release:	2
 Summary:	Use SourceCodePro with TeX(-alike) systems
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/fonts/sourcecodepro
+URL:		https://www.ctan.org/tex-archive/fonts/sourcecodepro
 License:	OFL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/sourcecodepro.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/sourcecodepro.doc.r%{version}.tar.xz
